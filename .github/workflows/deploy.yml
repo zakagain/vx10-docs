@@ -28,7 +28,7 @@ jobs:
         working-directory: site
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site/dist
+          path: site/docs/.vitepress/dist
 
   deploy:
     needs: build
