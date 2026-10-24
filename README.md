@@ -12,7 +12,7 @@ The VX-10 is a high-performance aerospace platform documented here end-to-end â€
 from aerodynamics and propulsion to mission profiles, data links, and pilot
 experience.
 
-Made to show to **[Hermes Aerospace](https://hermeus.com)**.
+Made to show to **[Hermeus Aerospace](https://hermeus.com)**.
 
 ## Contents
 
