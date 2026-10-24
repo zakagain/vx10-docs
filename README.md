@@ -1,8 +1,12 @@
 # VX-10
 
+## Live Site
+
+https://aerospace.zakariyakhalid.dpdns.org/
+
 > Documentation for the **VX-10** airframe & mission systems.
 
-Built with [VitePress](https://vitepress.dev) · Standard theme.
+Built with [VitePress](https://vitepress.dev) 
 
 ---
 
@@ -24,7 +28,3 @@ Made to show to **[Hermeus Aerospace](https://hermeus.com)**.
 - Safety & Backups
 - Pilot Experience
 - And more…
-
-## Live Site
-
-https://aerospace.zakariyakhalid.dpdns.org/
