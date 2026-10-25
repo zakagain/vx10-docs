@@ -9,19 +9,17 @@ hero:
       icon: right-arrow
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
-
 ## Documentation
 
-<CardGrid stagger>
-	<Card title="Aircraft" icon="rocket">
-		Aerodynamics, propulsion, and airframe.
-	</Card>
-	<Card title="Operations" icon="document">
-		Mission profiles, reconnaissance, rescue.
-	</Card>
-	<Card title="Pilot" icon="open-book">
-		Pilot experience, safety, where to fly.
-	</Card>
-</CardGrid>
+::: tip Aircraft
+Aerodynamics, propulsion, and airframe.
+:::
+
+::: tip Operations
+Mission profiles, reconnaissance, rescue.
+:::
+
+::: tip Pilot
+Pilot experience, safety, where to fly.
+:::
 
