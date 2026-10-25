@@ -1,10 +1,15 @@
 ---
+layout: doc
 title: Safety & Backups
+description: VX-10 auxiliary systems, RCS thrusters, and multi-layer redundancy for hypersonic flight safety.
 tags:
   - vibe
-  - saftey
+  - safety
   - aux
 ---
+
+# Safety & Backups
+
 #### What auxiliary systems are present in VX-10?
 
 

@@ -1,5 +1,7 @@
 ---
+layout: doc
 title: Propulsion & Power
+description: VX-10 propulsion systems including scramjets, active additive injection, and thermal management.
 tags:
   - power
   - fuel
@@ -7,6 +9,9 @@ tags:
   - engines
   - scramjets
 ---
+
+# Propulsion & Power
+
 ## Custom systems
 
 

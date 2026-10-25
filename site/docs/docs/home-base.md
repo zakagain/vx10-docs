@@ -1,10 +1,15 @@
 ---
+layout: doc
 title: Home Base
+description: VX-10 deployment strategy and distributed basing for government operators worldwide.
 tags:
   - vectura
   - vx-series
   - homebase
 ---
+
+# Home Base
+
 #### VX-10. Where is it?
 
 

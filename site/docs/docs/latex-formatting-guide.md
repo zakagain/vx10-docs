@@ -1,9 +1,11 @@
 ---
+layout: doc
 title: LaTeX Formatting Guide
+description: Quick reference for LaTeX math notation in digital notebooks — fractions, exponents, matrices, and modular arithmetic.
 tags: []
 ---
-# LaTeX Formatting Guide for Beginners
 
+# LaTeX Formatting Guide
 
 LaTeX is a high-quality typesetting system widely used for scientific and mathematical documentation. In platforms like AFFiNE, Notion, or Obsidian, LaTeX is used to display clean formulas.
 

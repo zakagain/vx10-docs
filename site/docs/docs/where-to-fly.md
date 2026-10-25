@@ -1,5 +1,7 @@
 ---
-title: Where to fly
+layout: doc
+title: Where to Fly
+description: VX-10 operational ceilings — mesosphere cruising and thermosphere ballistic skip profiles.
 tags:
   - vectura
   - aerospace
@@ -9,6 +11,9 @@ tags:
   - vibe
   - altitude
 ---
+
+# Where to Fly
+
 ## The Mesosphere
 
 

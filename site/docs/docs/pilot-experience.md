@@ -1,10 +1,15 @@
 ---
+layout: doc
 title: Pilot Experience
+description: VX-10 Vision Flight Deck, Speed Panel, bio-sensing seat, VXS-01 suit, and Vision Helmet.
 tags:
   - aerospace
   - vx-series
   - pilot
 ---
+
+# Pilot Experience
+
 ## Behind the controls of VX-10
 
 
@@ -14,7 +19,7 @@ VX-10 is nearly entirely digital. Equipped with a beautiful Vision Flight Deck, 
 #### UX/UI
 
 
-The aircraft also is equipped with the **Vectura Speed Panel,** a beautifully designed, 240hz, OLED XDR (Apple partnership? 🤷🏼‍♂️) screen that displays speed with standout colour changes as speed increases. I’m thinking from cool blue, to (near) red-hot (like the plane’s exterior).
+The aircraft also is equipped with the **Vectura Speed Panel,** a beautifully designed, 240hz, OLED HDR (Apple partnership? 🤷🏼‍♂️) screen that displays speed with standout colour changes as speed increases. I’m thinking from cool blue, to (near) red-hot (like the plane’s exterior).
 
 
 #### The Seat

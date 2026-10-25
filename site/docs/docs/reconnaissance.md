@@ -1,5 +1,7 @@
 ---
-title: 'Reconnaissance '
+layout: doc
+title: Reconnaissance
+description: VX-10 SAR mapping, Speed Panel reconnaissance mode, and Mach 10 intelligence gathering.
 tags:
   - vectura
   - vx-series
@@ -9,6 +11,9 @@ tags:
   - speed
   - recon
 ---
+
+# Reconnaissance
+
 ## Mach 10 Reconnaissance
 
 

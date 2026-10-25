@@ -1,11 +1,16 @@
 ---
+layout: doc
 title: Vibe
+description: VX-10 design philosophy — matte charcoal finish, flowing bodylines, integrated scramjet belly, and afterburner aesthetics.
 tags:
   - vectura
   - aerospace
   - vx-series
   - vibe
 ---
+
+# Vibe
+
 ## What do I want this to feel like?
 
 

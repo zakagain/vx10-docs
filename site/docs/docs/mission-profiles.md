@@ -1,9 +1,11 @@
 ---
+layout: doc
 title: Mission Profiles
+description: Example VX-10 mission scenarios including disaster response, reconnaissance, and rapid deployment.
 tags: []
 ---
-# Example Missions
 
+# Mission Profiles
 
 #### Operation Incision
 

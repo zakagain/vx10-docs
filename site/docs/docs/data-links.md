@@ -1,9 +1,14 @@
 ---
-title: Data-links
+layout: doc
+title: Data Links
+description: VX-10 laser communications, emergency data pods, and AI edge processing for real-time intelligence.
 tags:
   - data
   - bandwidth
 ---
+
+# Data Links
+
 ## How VX-10 communicates with ATC
 
 

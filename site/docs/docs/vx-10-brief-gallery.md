@@ -1,10 +1,15 @@
 ---
-title: VX-10 Brief + Gallery
+layout: doc
+title: VX-10 Brief Gallery
+description: VX-10 specifications, engine failure procedures, and concept gallery.
 tags:
   - vectura
   - aerospace
   - vx-series
 ---
+
+# VX-10 Brief Gallery
+
 ## Basic Information
 
 
